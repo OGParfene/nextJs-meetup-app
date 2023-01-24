@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 I made this app to practice my React and Next Js skills during a curse tutorial in which I used Mongo Db to store my meetups data, and It is deployed using Vercel. 
 
+You can access to the application deployed <a href="https://next-js-meetup-app-liart.vercel.app/">Here</a>
+
 ## Getting Started
 
 First, run the development server:
